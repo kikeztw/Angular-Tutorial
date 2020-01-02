@@ -1,6 +1,6 @@
-/angular-stackblitz/dist
-/angular-stackblitz/node_modules
-/angular-stackblitz/package-lock.json
+*/dist
+/angular-started-tutorial/node_modules
+*/package-lock.json
 /tour-of-heroes/dist
 /tour-of-heroes/node_modules
 /tour-of-heroes/package-lock.json

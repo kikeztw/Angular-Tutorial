@@ -1,6 +1,6 @@
-*/dist
+/angular-started-tutorial/dist
 /angular-started-tutorial/node_modules
-*/package-lock.json
+/angular-started-tutorial/package-lock.json
 /tour-of-heroes/dist
 /tour-of-heroes/node_modules
 /tour-of-heroes/package-lock.json
